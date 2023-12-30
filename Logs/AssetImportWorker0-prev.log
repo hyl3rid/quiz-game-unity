@@ -1,0 +1,390 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.2861; Version 2009; 64bit' Language: 'en' Physical Memory: 16005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/cliff/quiznow
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53665
+Successfully changed project path to: C:/Users/cliff/quiznow
+C:/Users/cliff/quiznow
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 67.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/cliff/quiznow/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6010 MB
+    Driver:   31.0.15.4633
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56248
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001281 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.766 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002466 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3829.
+Total: 1.775800 ms (FindLiveObjects: 0.170300 ms CreateObjectMapping: 0.078800 ms MarkObjects: 1.471600 ms  DeleteObjects: 0.054300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.008481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.916033 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(8f0d395a36da36c4d82534f79abcb6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(8f0d395a36da36c4d82534f79abcb6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3838edc2183af41c7138f2db2f2aeba') in 0.004093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 245.447956 seconds.
+  path: Assets/Sprites/background.png
+  artifactKey: Guid(727f2efa6ee22374bbdddae526e7ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/background.png using Guid(727f2efa6ee22374bbdddae526e7ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0118f1ee455b0f96607ff560314c9b') in 0.088625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Sprites/Quiz Master - Gameplay Overview 2.png
+  artifactKey: Guid(a3e16409cdee44c4b95a5ba7e25d8dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Quiz Master - Gameplay Overview 2.png using Guid(a3e16409cdee44c4b95a5ba7e25d8dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acfc13bce86f6bf58fd495ccc5d192b6') in 0.016172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/neon_round_orange.png
+  artifactKey: Guid(90c8d818a9665ba41862a065fa2eb6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/neon_round_orange.png using Guid(90c8d818a9665ba41862a065fa2eb6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2be922798ae10e8ebc84c6b1cc92e3') in 0.018108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Sprites/neon_square_blue.png
+  artifactKey: Guid(2e1aa156b9786504a8ab7c50128e27df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/neon_square_blue.png using Guid(2e1aa156b9786504a8ab7c50128e27df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346830b98483b1f897c8e9f23e189cb2') in 0.013568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Sprites/Quiz Master - Gameplay Overview 1.png
+  artifactKey: Guid(ea08aa3ba33bf724dad660374658a4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Quiz Master - Gameplay Overview 1.png using Guid(ea08aa3ba33bf724dad660374658a4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73020ff6b8516e9504d7191f54c2bade') in 0.030702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Sprites/Quiz Master - Gameplay Overview 3.png
+  artifactKey: Guid(542793b6772849645bf3ce3a61e662dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Quiz Master - Gameplay Overview 3.png using Guid(542793b6772849645bf3ce3a61e662dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3d9f7303a2c128c5228a707abc9401') in 0.026089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Sprites/neon_square_orange.png
+  artifactKey: Guid(ccf7258ccee0d454088cf9b4cc7610bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/neon_square_orange.png using Guid(ccf7258ccee0d454088cf9b4cc7610bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4b5c1fd1353544e8357edda7038ff3') in 0.013304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1078.513825 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.104754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.056873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.047165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.029332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.705773 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/SunnySpellsBasicRegular-Yz1Wv.ttf
+  artifactKey: Guid(f9c91b2a4be0718479e93cdb377ffaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/SunnySpellsBasicRegular-Yz1Wv.ttf using Guid(f9c91b2a4be0718479e93cdb377ffaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48607690e59201144b081ac58960d61e') in 0.025508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 233.002128 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71cf8834243413d31d515958db958070') in 0.010160 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002940 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.9 MB.
+System memory in use after: 145.5 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4032.
+Total: 2.074100 ms (FindLiveObjects: 0.211400 ms CreateObjectMapping: 0.104900 ms MarkObjects: 1.591500 ms  DeleteObjects: 0.165300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.329051 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79889cafde56e022babe0107d274bab5') in 0.069623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.483740 seconds.
+  path: Assets/TextMesh Pro/Fonts/RethinkSans-Bold.ttf
+  artifactKey: Guid(c184e382558f0bb44bf6be35e6a317b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/RethinkSans-Bold.ttf using Guid(c184e382558f0bb44bf6be35e6a317b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26e9301b34b4907f289474bb07589b8') in 0.019332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.825948 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ed59a48b952935c94a9302b2b79e3d') in 0.048660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 95.812007 seconds.
+  path: Assets/TextMesh Pro/Fonts/RethinkSans-Bold SDF.asset
+  artifactKey: Guid(8950dc7403246564b85eda595e16d1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/RethinkSans-Bold SDF.asset using Guid(8950dc7403246564b85eda595e16d1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6ba877e88aad0bfca21b2e2526db3e') in 0.039351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.483637 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d242e9283508c18794da928a138fa9') in 0.015759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 692.313877 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/RethinkSans-Bold SDF.asset
+  artifactKey: Guid(8950dc7403246564b85eda595e16d1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/RethinkSans-Bold SDF.asset using Guid(8950dc7403246564b85eda595e16d1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541b55877613173ca07c0ab28834650f') in 0.040573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.084638 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/RethinkSans-Bold SDF.asset
+  artifactKey: Guid(8950dc7403246564b85eda595e16d1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/RethinkSans-Bold SDF.asset using Guid(8950dc7403246564b85eda595e16d1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bab37524b3e0c3c8cd3e180001ee77e') in 0.030676 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002543 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3378 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.5 MB.
+System memory in use after: 148.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4126.
+Total: 2.167200 ms (FindLiveObjects: 0.245300 ms CreateObjectMapping: 0.094300 ms MarkObjects: 1.619300 ms  DeleteObjects: 0.206900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2539.869013 seconds.
+  path: Assets/Sprites/neon_square_blue.png
+  artifactKey: Guid(2e1aa156b9786504a8ab7c50128e27df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/neon_square_blue.png using Guid(2e1aa156b9786504a8ab7c50128e27df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dcb2c5dc50b3d533ee0ae8300ae653f') in 0.051071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 503.881904 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093a2cdfc4701742cd4e2e9653a3929b') in 0.012163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.509825 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99846f5a5cef2b9fb3476a6a84d35918') in 0.006282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.386471 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0823066b7ec52758287ee63733e29fa') in 0.011640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.601878 seconds.
+  path: Assets/Button.prefab
+  artifactKey: Guid(7488a77b7e492d44f91edc7679af1809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Button.prefab using Guid(7488a77b7e492d44f91edc7679af1809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769499ef4cba7ffe63c02f51e2871d25') in 0.052247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.723378 seconds.
+  path: Assets/AnswerButton.prefab
+  artifactKey: Guid(7488a77b7e492d44f91edc7679af1809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnswerButton.prefab using Guid(7488a77b7e492d44f91edc7679af1809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3e4c65aeb0f131d6c0adfc18d9fb6d') in 0.015174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.937867 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(952b7c7230422744d9950e4bcce3876c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(952b7c7230422744d9950e4bcce3876c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16177cfeea0ee322b5811b0974ae563') in 0.006151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81.156610 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(c65d0da1110e7cf4c954b42015517325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(c65d0da1110e7cf4c954b42015517325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb391af861a27c4e3c3f69ae241db23') in 0.006036 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002347 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.656 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3374 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.6 MB.
+System memory in use after: 149.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4160.
+Total: 3.060400 ms (FindLiveObjects: 0.712700 ms CreateObjectMapping: 0.208600 ms MarkObjects: 1.965000 ms  DeleteObjects: 0.173200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.239444 seconds.
+  path: Assets/Questions
+  artifactKey: Guid(42e658eeea40770438869a8ac2e5ba30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Questions using Guid(42e658eeea40770438869a8ac2e5ba30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b4c15d7935b091a142fd0846131aad') in 0.007972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 117.230855 seconds.
+  path: Assets/Scripts/QuestionSO.cs
+  artifactKey: Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/QuestionSO.cs using Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233006cb5120673a9e57cdc4d986a7ad') in 0.004409 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002149 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.668 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.6 MB.
+System memory in use after: 149.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4164.
+Total: 2.583200 ms (FindLiveObjects: 0.277700 ms CreateObjectMapping: 0.093100 ms MarkObjects: 1.968000 ms  DeleteObjects: 0.243200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003086 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\cliff\quiznow\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.657 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.6 MB.
+System memory in use after: 149.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4168.
+Total: 2.031800 ms (FindLiveObjects: 0.181500 ms CreateObjectMapping: 0.079400 ms MarkObjects: 1.584100 ms  DeleteObjects: 0.185800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.668703 seconds.
+  path: Assets/Scripts/QuestionSO.cs
+  artifactKey: Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/QuestionSO.cs using Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91aff8d6a59877d45fe3239edfc0a22f') in 0.007844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.632168 seconds.
+  path: Assets/Scripts/New Question SO.asset
+  artifactKey: Guid(7569f657f253b474a88d709e24e664d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/New Question SO.asset using Guid(7569f657f253b474a88d709e24e664d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b3c1aba748ec0fd9d661497ebaf167') in 0.014740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 145.669576 seconds.
+  path: Assets/Scripts/QuestionSO.cs
+  artifactKey: Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/QuestionSO.cs using Guid(ee4694dcb5f32c24a8a6e6a473001648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa48bf6ddc02ede6f074208edf91ac2e') in 0.004237 seconds 
